@@ -18,7 +18,6 @@
  
 <div> 
   <a href="https://twitter.com/fleursliri"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mariliafmacielestudos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=ywhite" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maríliafmaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
