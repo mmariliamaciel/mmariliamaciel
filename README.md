@@ -2,7 +2,7 @@
 
 - 📚 Estou estudando Python
 - 💌 E-mail: mariliafmacielestudos@gmail.com
-- 💜 Pronomes: ela/dela
+- 💜 Pronomes: she/her-ela/dela
 
 <div align="center">
   <a href="https://github.com/mmariliamaciel">
